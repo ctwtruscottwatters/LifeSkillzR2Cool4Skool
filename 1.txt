@@ -1,0 +1,39 @@
+privileged characteristic theories	e.g. special cases carrying privilege
+prototype, paradigm- characteristic theories	e.g. hypothetical, prototype ideas; paradigm of implementation ideas
+
+thesis
+
+reconstruction
+
+argumentative cases
+
+particular cases
+
+artifact identity
+
+exceptions to drive the norms
+
+identity preserving
+
+dissolving argumentation
+
+principles, forces
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+(a), (b), (c), (d), (e), (f), (g)
+
+SIX PREMISES
+
+(h) (i) (j) (k) (l) (m) (n)
+
+------------------------------------------------------------------------------------------------------
+
+c2
+
+DEDUCTION, INDUCTIVE REASONING
+
+AND OR XOR NOT IF IF AND ONLY IF
+
+
+(((a) & (b) -> (h))) <-> ((f) & (g))
